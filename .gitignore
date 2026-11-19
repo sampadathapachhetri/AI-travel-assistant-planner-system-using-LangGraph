@@ -1,0 +1,19 @@
+﻿# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+langgraph_env_3/
+langgraph_env3/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# IDE / OS files
+.vscode/
+.DS_Store
+Thumbs.db
